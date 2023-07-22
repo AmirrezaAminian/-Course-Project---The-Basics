@@ -1,0 +1,35 @@
+.row{
+    margin-top: 20px;
+}
+
+.imgpath{
+    margin-top: 1rem;
+    pad: 1rem;
+    display: flex;
+    flex-direction: column;
+    
+   
+    
+}
+
+ 
+ 
+.list-group-item{
+    display: flex;
+    border: 1px solid rgba(0,0,0,0.1);
+    padding: 1rem;
+}
+
+.list-group-item:hover{
+    background-color: rgba(204, 204, 204 , 0.5);
+}
+
+
+.list-group-item  span{
+    margin-left:auto;
+}
+
+
+.list-group-item  span img{
+        width: 6rem;
+}
